@@ -5,7 +5,7 @@ Simple API built using ASP.NET Core and MediatR to demonstrate how to easily imp
 The example API is very simple, exposing HTTP endpoints through `/api/users` that internally use MediatR to handle requests and responses.
 
 ## Frameworks and Libraries
-- [ASP.NET 7](https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0);
+- [ASP.NET 10](https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-10.0);
 - [MediatR](https://github.com/jbogard/MediatR) (mediator pattern implementation for .NET);
 - [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/) (for data access);
 - [Entity Framework In-Memory Provider](https://docs.microsoft.com/en-us/ef/core/miscellaneous/testing/in-memory) (for testing purposes);
